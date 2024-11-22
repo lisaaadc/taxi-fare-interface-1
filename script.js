@@ -225,3 +225,7 @@ pickupAutocomplete();
 dropoffAutocomplete();
 initFlatpickr();
 predict();
+
+// script.js
+
+const taxiFareApiUrl = 'https://YOUR_API_URL/predict';
